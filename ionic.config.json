@@ -1,5 +1,7 @@
 {
   "name": "geo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
